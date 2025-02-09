@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Mark-EL-Asfar
+- 👋 Hi, I’m @Mark-AL-Asfar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-![Badge](https://img.shields.io/badge/BadgeName-Color?style=flat&logo=github)
 
 <!---
 Mark EL-Asfar/Mark EL-Asfar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![mark](https://img.shields.io/badge/Mark-AL-Asfar-Color?style=flat&logo=github)
