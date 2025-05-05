@@ -46,8 +46,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark EL-Asfar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark EL-Asfar&layout=compact&theme=radical)
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark-L-Asfar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-L-Asfar&layout=compact&theme=radical)
 
 ---
 
