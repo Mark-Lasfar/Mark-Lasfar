@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Mark-AL-Asfar
 
-![Mark](https://raw.githubusercontent.com/Mark-Lasfar/MGZon/refs/heads/main/public/images/ibrahim_elasfar.png)
+![Mark Al-Asfar](https://raw.githubusercontent.com/Mark-Lasfar/mgpt/refs/heads/main/static/video/mg.gif)
 
 ---
 
@@ -46,7 +46,7 @@
 - [My Next.js Project Repo](https://github.com/Mark-Lasfar/my-nextjs-project)
 
 ---
-![Mark Al-Asfar](https://raw.githubusercontent.com/Mark-Lasfar/mgpt/refs/heads/main/static/video/mg.gif)
+![Mark](https://raw.githubusercontent.com/Mark-Lasfar/MGZon/refs/heads/main/public/images/ibrahim_elasfar.png)
 
 
 
