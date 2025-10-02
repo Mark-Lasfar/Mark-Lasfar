@@ -39,11 +39,15 @@
 ---
 
 ## 📂 My Work
+- [MGZON AI (Live Website)](https://mgzon-mgzon-app.hf.space/)
+
 - [My CV on Google Drive](https://drive.google.com/file/d/1-wr3dvpYtgAgAY9lc7pva_Dohoy9IdMk/view?usp=drivesdk)
 - [Hager-Zon (Live Website)](https://hager-zon.vercel.app/)
 - [My Next.js Project Repo](https://github.com/Mark-Lasfar/my-nextjs-project)
 
 ---
+![Mark]([https://raw.githubusercontent.com/Mark-Lasfar/MGZon/refs/heads/main/public/images/ibrahim_elasfar.png](https://raw.githubusercontent.com/Mark-Lasfar/mgpt/refs/heads/main/static/video/mg.gif))
+
 
 ## 📊 GitHub Stats
 ![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mark-Lasfar&show_icons=true&theme=radical)
@@ -53,7 +57,7 @@
 
 ## 📫 How to reach me
 - Email: [marklasfar@gmail.com](mailto:marklasfar@gmail.com)
-- GitHub: [@Mark-AL-Asfar](https://github.com/Mark-AL-Asfar)
+- GitHub: [@Mark-AL-Asfar](https://github.com/Mark-Lasfar)
 
 <!---
 Mark EL-Asfar/Mark EL-Asfar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
