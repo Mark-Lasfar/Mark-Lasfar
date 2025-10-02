@@ -46,7 +46,8 @@
 - [My Next.js Project Repo](https://github.com/Mark-Lasfar/my-nextjs-project)
 
 ---
-![Mark]([https://raw.githubusercontent.com/Mark-Lasfar/MGZon/refs/heads/main/public/images/ibrahim_elasfar.png](https://raw.githubusercontent.com/Mark-Lasfar/mgpt/refs/heads/main/static/video/mg.gif))
+![Mark Al-Asfar](https://raw.githubusercontent.com/Mark-Lasfar/mgpt/refs/heads/main/static/video/mg.gif)
+
 
 
 ## 📊 GitHub Stats
