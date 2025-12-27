@@ -4,6 +4,55 @@
 
 ---
 
+I have a system that operates with a complex structure.
+
+```mermaid
+graph LR
+    subgraph Data_Sources["Data Sources"]
+        A[Google Analytics] --> C{Data Converter}
+        B[Facebook Pixel] --> C
+        D[Internal Data] --> C
+        E[Custom Systems] --> C
+    end
+
+    C --> F[Unified Format]
+
+    F --> G[Sales Analytics]
+    F --> H[Traffic Analytics]
+    F --> I[Product Analytics]
+    F --> J[Customer Analytics]
+````
+
+
+
+```mermaid
+graph TB
+    subgraph "Data Sources Layer"
+        A[Web Application] --> B[VisitorLog]
+        C[Google Analytics] --> D[Integration Manager]
+        E[Facebook Pixel] --> D
+        F[Custom Systems] --> D
+    end
+    
+    subgraph "Processing Layer"
+        B --> G[Data Aggregator]
+        D --> G
+        G --> H[Cache Layer]
+        G --> I[Data Processor]
+    end
+    
+    subgraph "Presentation Layer"
+        I --> J[GraphQL Resolvers]
+        J --> K[REST API]
+        K --> L[Seller Dashboard]
+        K --> M[Admin Reports]
+        K --> N[Data Export]
+    end
+    
+    H --> G
+    L --> A
+````
+
 ## 👀 I’m interested in
 - Full Stack Web Development
 - Open Source Projects
