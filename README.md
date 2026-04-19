@@ -6,7 +6,7 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/Mark-Lasfar?style=for-the-badge&logo=github&color=0a66c2)](https://github.com/Mark-Lasfar)
   [![GitHub stars](https://img.shields.io/github/stars/Mark-Lasfar?style=for-the-badge&logo=github&color=yellow)](https://github.com/Mark-Lasfar)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-alasfar)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimelasfar)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mgzon-server.hf.space)
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marklasfar@gmail.com)
   
@@ -27,18 +27,18 @@
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Mark-Lasfar/count.svg" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mark-Lasfar.Mark-Lasfar&title=Profile%20Views&color=blue" alt="Profile Views" />
   <p><i>🔥 Total profile views since 2024</i></p>
 </div>
 
----
+
+##
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/marklasfar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=marklasfar&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-  <a href="https://www.paypal.me/marklasfar"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+  <a href="https://buymeacoffee.com/elasfar"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+  <a href="https://www.paypal.com/paypalme/ibrahimlasfar"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -170,7 +170,7 @@ graph TB
 
 <div align="center">
   
-    **🔄 Come back later... things change around here 🔄**
+    ** Come back later... things change around here **
 
   
   <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
@@ -186,9 +186,9 @@ graph TB
 | Platform | Link |
 |----------|------|
 | 📧 Email | [marklasfar@gmail.com](mailto:marklasfar@gmail.com) |
-| 💼 LinkedIn | [Mark Al-Asfar](https://linkedin.com/in/mark-alasfar) |
-| 🌐 Portfolio | [mgzon-server.hf.space](https://mgzon-server.hf.space) |
-| 📄 CV | [Download PDF](https://drive.google.com/file/d/1-wr3dvpYtgAgAY9lc7pva_Dohoy9IdMk/view) |
+| 💼 LinkedIn | [Mark Al-Asfar](https://linkedin.com/in/ibrahimelasfar) |
+| 🌐 Portfolio | [mgzon-server](https://elasfar.vercel.app/) |
+| 📄 CV | [Download PDF](https://drive.google.com/uc?export=download&id=1yP-j5btmigH2SDWh2TSKw7pw-hMnXKQa) |
 | 🐙 GitHub | [Mark-Lasfar](https://github.com/Mark-Lasfar) |
 
 </div>
