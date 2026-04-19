@@ -84,8 +84,9 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_affiliations: owner, collaborator, organization_member
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_repositories_featured: Mark-Lasfar/MGZon, Mark-Lasfar/hager-zon
-          
+          plugin_repositories_featured: Mark-Lasfar/MGZon, Mark-Lasfar/mgzon-cli
+          plugin_notable_skipped: projects
+
           # ========================================
           # 8. الإنجازات (Achievements)
           # ========================================
